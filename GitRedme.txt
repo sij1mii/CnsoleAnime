@@ -1,0 +1,9 @@
+1 mkdir awesome
+2 cd awesome
+3 git init
+4 git add Hello.py
+5 git commit -m "add new file"
+6 git status
+7 git remote add origin https://github.com//awesome.git
+8 git push origin master
+
